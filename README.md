@@ -31,4 +31,3 @@ Love building mobile apps with Flutter and web apps with React, also have a good
 
 - 🔭 I’m currently working at Lanepact
 - 🌱 I’m currently learning Node.js Nest.js Javascript MongoDB.
--->
