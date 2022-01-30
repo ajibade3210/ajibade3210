@@ -12,7 +12,7 @@ Love building mobile apps with Flutter and web apps with React, also have a good
 
 - 📫 How to reach me : 📩 : holaszyd1@gmail.com .
 
-- ⚡ Fun fact : Loves Emotional Design and Marketing Psychology.
+- ⚡ Fun fact : Loves system Design and Marketing Psychology.
 
 #### 💻 I'm using these languages and tools 
 
