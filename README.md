@@ -1,14 +1,16 @@
 ## Hi there 👋, &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=ajibade3210.ajibade3210)
 
-I am harsh, not the friendly neighbourhood spiderman but know my web well. 
+I am your not the friendly neighbourhood spiderman who got stucked in javascript's web.
 
-Love building mobile apps with Flutter and web apps with React, also have a good eye for design and a music maniac in every means.
+And it has been surprisingly fun.
 
-<img align="right" alt="Developer GIF" src="https://github.com/harshkc/harshkc/blob/master/developer.gif?raw=true" width="400" height="auto" />
+Love building mobile apps with Flutter/React Native and web apps with React, also have a good eye for design and a music maniac in every means.
+
+<img align="right" alt="spiderman GIF" src="https://i.ibb.co/K0MBL7c/image-processing20200810-21429-wc4nll.gif" width="350" height="auto" />
 
 - 👨‍💻 All of my projects are available at [ajibadde](https://portfolio3-ajibade123.vercel.app/)
 
-- 💬 Ask me about React, Node js, Javascript, Universe.
+- 💬 Ask me about React, Node js, Javascript, Java Universe.
 
 - 📫 How to reach me : 📩 : holaszyd1@gmail.com .
 
@@ -29,5 +31,5 @@ Love building mobile apps with Flutter and web apps with React, also have a good
 <a href="https://www.linkedin.com/in/olunowo-olaoluwa-58516519a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="olunowo-olaoluwa" height="20" width="20" /></a>
 </p>
 
-- 🔭 I’m currently working at Lanepact
+- 🔭 I’m currently working at Long Brigde
 - 🌱 I’m currently learning Node.js Nest.js Javascript MongoDB.
