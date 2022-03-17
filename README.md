@@ -1,6 +1,6 @@
 ## Hi there 👋, &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=ajibade3210.ajibade3210)
 
-I am your not the friendly neighbourhood spiderman who got stucked in javascript's web.
+I am your super friendly neighbourhood spiderman who got stucked in javascript's web.
 
 And it has been surprisingly fun.
 
