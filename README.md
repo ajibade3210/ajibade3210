@@ -34,5 +34,5 @@ Just Signal (Shout Help!!) I'd be there ASAP.
 <a href="https://www.linkedin.com/in/olunowo-olaoluwa-58516519a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="olunowo-olaoluwa" height="20" width="20" /></a>
 </p>
 
-- 🔭 I’m currently working at Long Brigde
+- 🔭 I’m currently working at LongBridge Technologies
 - 🌱 I’m currently learning Node.js Nest.js Javascript MongoDB.
