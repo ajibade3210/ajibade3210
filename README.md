@@ -2,7 +2,7 @@
 
 I am your super friendly neighbourhood spiderman who got stucked in javascript's web.
 
-And it has been surprisingly fun.
+And it has been surprisingly fun..
 
 Love building mobile apps with Flutter/React Native and web apps with React, also have a good eye for design and a music maniac in every means.
 
@@ -17,7 +17,7 @@ Just Signal (Shout Help!!) I'd be there ASAP.
 
 - 📫 How to reach me : 📩 : holaszyd1@gmail.com .
 
-- ⚡ Fun fact : Loves system Design and Marketing Psychology.
+- ⚡ Fun fact :-- Loves system Design and Marketing Psychology.
 
 #### 💻 I'm using these languages and tools 
 
