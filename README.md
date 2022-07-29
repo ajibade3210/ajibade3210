@@ -30,11 +30,10 @@ Just Signal (Shout Help!!) I'd be there ASAP.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajibade3210&count_private=true&show_icons=true"/>
 </p>
 
-
-
 <p align="center">
 <a href="https://www.linkedin.com/in/olunowo-olaoluwa-58516519a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="olunowo-olaoluwa" height="20" width="20" /></a>
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajibade3210&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working at LongBridge Technologies
 - 🌱 I’m currently learning Node.js Nest.js Javascript MongoDB.
